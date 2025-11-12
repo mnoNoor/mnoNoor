@@ -13,7 +13,6 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349402/html5.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349330/css3.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452092/react.svg" />
 <img align="left" alt="Shadcn" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
 <img align="left" alt="Zustand" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/zustand/zustand-original.svg" />
