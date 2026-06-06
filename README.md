@@ -1,21 +1,52 @@
-# Hi, I'm Noor
+# 👋 Hi, I'm Noor
 
-### **`Full-Stack Developer`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Telegram+Bot+Builder" />
+</p>
 
-👨🏻‍💻 Software Engineering student at Syrian Virtual University.  
-⚙️ From front-end to back-end, on my journey to becoming a full-stack developer.  
-🌍 I began my journey in building a digital community.  
-🤖 Currently interested in building bots.
+---
 
-### 🛠️ Languages and Tools
+## about me
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349402/html5.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349330/css3.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452092/react.svg" />
-<img align="left" alt="Shadcn" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
-<img align="left" alt="Zustand" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/zustand/zustand-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/330398/express.svg" />
-<br />
+- 🎓 Software Engineering student at **Syrian Virtual University**  
+- 🔧 From front-end to back-end — on my journey to becoming a **full-stack developer**  
+- 🌍 I began my journey in **building a digital community**  
+- 🤖 Currently building some Telegram bots
+- 🏆 First Place winner at **University Innovation Pioneers Camp 2025**
+
+---
+
+## frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+## backend & database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
+
+## tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+---
+
+## some projects
+
+- **uni-store** – a place for students to trade used books  
+- **upm admin bot** – keeps a 10k+ telegram group clean  
+- **telegram bots** – because why not  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnoNoor&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:38BDF8&height=80&section=footer"/>
+</p>
