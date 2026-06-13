@@ -26,11 +26,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p>
 
-## tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
-
 ---
 
 ## some projects
